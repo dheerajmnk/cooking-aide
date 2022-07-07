@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom'
 import { useTheme } from '../hooks/useTheme'
-import { projectFirestore } from '../firebase/config'
 
 // import Trashcan from '../assets/trashcan.svg'
 
